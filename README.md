@@ -2,7 +2,7 @@
 
 Public Leaderboard Rank: 86
  
-Private Leaderboard Rank: _
+Private Leaderboard Rank: 89
 
 ## Problem Statement
 <img src="assets/Problem_statement.jpg"
@@ -39,4 +39,4 @@ Private Leaderboard Rank: _
 The score obtained using this solution is **0.9352380952**
 
 ## Competition Result
-[Rank](https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics/#LeaderBoard): 86th on public LB and _ on private LB
+[Rank](https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics/#LeaderBoard): 86th on public LB and 89th on private LB
