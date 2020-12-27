@@ -1,4 +1,4 @@
-# Analytics Vidhya Jantahack Healthcare Analytics
+# Analytics Vidhya Jantahack Customer Segmentation
 
 Public Leaderboard Rank: 86
  
